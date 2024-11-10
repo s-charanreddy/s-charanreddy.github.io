@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital Diary</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Digital Diary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 10 Nov 2024 23:27:59 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 10 Nov 2024 23:27:59 +0530</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      
+      <description>&lt;p&gt;Hey There,&lt;/p&gt;
+&lt;p&gt;I am sunkara charan reddy,&lt;/p&gt;
+&lt;p&gt;Working @ADP as a Software Engineer with Architecture Team
+on ADP Workforce Now.&lt;/p&gt;
+&lt;p&gt;Things I love :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;programming&lt;/li&gt;
+&lt;li&gt;cricket&lt;/li&gt;
+&lt;li&gt;cooking &amp;amp; cleaning&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 10 Nov 2024 20:46:32 +0530</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      
+      <description>&lt;h2 id=&#34;hello-world&#34;&gt;Hello World&lt;/h2&gt;
+&lt;p&gt;I have been thinking of setting up a personal site from quite sometime,
+but couldn&amp;rsquo;t be do so.&lt;/p&gt;
+&lt;p&gt;I suck at writing, I want to improve my writing, one way is to start
+writing what ever that comes to my mind without bothering about who
+will think of what.&lt;/p&gt;
+&lt;p&gt;I hope this will be starting of something new, I will write my learnings
+at work, personal stuff and what I want to share&amp;hellip;&amp;hellip;.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
